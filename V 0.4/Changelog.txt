@@ -1,0 +1,4 @@
+>Aggiunta controlli corretti per il gioco (Perrica)
+>Collisioni corrette quando si cambia lane (Perrica)
+>Accellerazione e decellerazione (Apuzzo)
+>Rimozione parti dello sfondo nere ancora visibili (Apuzzo)
