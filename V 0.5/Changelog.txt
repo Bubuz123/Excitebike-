@@ -1,0 +1,5 @@
+> Sprite corretti (Perrica)
+> Movimento fluido su e giù (Apuzzo)
+> Impennata (Perrica)
+> Rallentamenti (Apuzzo)
+> Y dello schermo giusta (Prof)
