@@ -1,0 +1,5 @@
+> Salti (Perrica)
+> Meccanica dopo i salti (Apuzzo)
+> Spawn Avversari (Perrica)
+> Movimento avversari (Apuzzo)
+> Respawn e randomizzazione avversari (Apuzzo)
